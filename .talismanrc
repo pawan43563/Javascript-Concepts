@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .dccache
+  checksum: 5e4b8eb633f37ea43db9d207a2b0e2ea10973cbe8d7b45581f3f82cd80ad4a8a
+version: "1.0"
